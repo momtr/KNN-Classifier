@@ -27,10 +27,10 @@ end func
 
 ## Example Two - Points
 
-Output: <br><br>
+Output: <br>
 
-<img src="" width="200">
-<img src="" width="200">
+<img src="https://github.com/moritzmitterdorfer/KNN-Classifier/blob/master/imgs/img_1.png" width="320">
+<img src="https://github.com/moritzmitterdorfer/KNN-Classifier/blob/master/imgs/img_2.png" width="320">
 
 ## Example Two - Iris Dataset
 
@@ -38,6 +38,6 @@ Output: <br><br>
 
 The model has a score of 96%.
 
-<br><br>
+<br>
 
-<img src="" width="600">
+<img src="https://github.com/moritzmitterdorfer/KNN-Classifier/blob/master/imgs/img_3.png" width="600">
